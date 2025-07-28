@@ -31,14 +31,14 @@ Proyek **Web Kasir** ini adalah aplikasi Point of Sale (POS) berbasis web, diban
 
 ## 📁 Fitur Utama
 
-- 🧾 **Manajemen Transaksi**
-- 🛒 **CRUD Produk / Barang**
-- 👨‍💼 **Manajemen Pengguna & Role Kasir/Admin**
-- 💳 **Metode Pembayaran (Tunai)**
-- 📊 **Laporan Penjualan**
-- 🔎 **Pencarian & Pagination**
-- 🧠 **Validasi Otomatis (Middleware)**
-- 🔐 **Login dengan JWT Token**
+- 🧾 Manajemen Transaksi
+- 🛒 CRUD Produk / Barang
+- 👨‍💼 Manajemen Pengguna & Role Kasir/Admin
+- 💳 Metode Pembayaran (Tunai)
+- 📊 Laporan Penjualan
+- 🔎 Pencarian & Pagination
+- 🧠 Validasi Otomatis (Middleware)
+- 🔐 Login dengan JWT Token
 
 ---
 
