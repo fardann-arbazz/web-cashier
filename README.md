@@ -47,7 +47,7 @@ Aplikasi ini memungkinkan pengguna (kasir atau admin) untuk mengelola transaksi 
 
 ```bash
 # Clone repo
-git clone https://github.com/username/web-kasir.git
+git clone https://github.com/fardann-arbazz/web-cashier.git
 cd web-kasir/backend
 
 # Copy konfigurasi
