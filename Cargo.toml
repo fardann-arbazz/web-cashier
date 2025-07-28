@@ -1,0 +1,22 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = { version = "0.7", features = ["macros"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenvy = "0.15"
+mysql_async = "0.32"
+tokio = { version = "1.37", features = ["full"] }
+tower = "0.4"
+jsonwebtoken = "9"
+uuid = { version = "1", features = ["v4"] }
+sqlx = { version = "0.8.2", features = ["mysql", "runtime-tokio-rustls", "macros", "migrate", "chrono", "uuid"] }
+argon2 = "0.5"
+password-hash = "0.5" 
+rand_core = "0.6"
+validator_derive = "0.16"
+validator = "0.16"
+tower-http = { version = "0.5", features = ["cors"] }
