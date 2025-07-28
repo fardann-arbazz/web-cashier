@@ -1,7 +1,7 @@
 ````md
 # 🧾 Web Kasir - Cashier Web Application
 
-Proyek *Web Kasir* ini adalah aplikasi Point of Sale (POS) berbasis web, dibangun dengan *React + TypeScript* di sisi frontend, dan *Rust (Axum + MySQL)* di sisi backend.
+Proyek Web Kasir ini adalah aplikasi Point of Sale (POS) berbasis web, dibangun dengan React + TypeScript di sisi frontend, dan Rust (Axum + MySQL) di sisi backend.
 Aplikasi ini memungkinkan pengguna (kasir atau admin) untuk mengelola transaksi penjualan, produk, pengguna, dan laporan secara efisien.
 
 ---
