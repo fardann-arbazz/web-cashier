@@ -13,7 +13,6 @@ Aplikasi ini memungkinkan pengguna (kasir atau admin) untuk mengelola transaksi 
 - [Vite](https://vitejs.dev/) - Development bundler
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
 - [Shadcn UI](https://ui.shadcn.com/) - Component library
-- [Zod](https://zod.dev/) - Schema validation
 - [Axios](https://axios-http.com/) - HTTP client
 - [React Router](https://reactrouter.com/) - Routing
 
